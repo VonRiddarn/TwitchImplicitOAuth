@@ -7,7 +7,7 @@
 
 ## About
 
-This is a simple library that automates the work needed to grab a user-token to use with the Twitch API.<br/>
+This is a simple  library that automates the work needed to grab a user-token to use with the Twitch API.<br/>
 The library is compatible with any and all applications running on C# no matter what other libraries or frameworks you have implemented.
 
 This library will only help you with getting the user to autorize the application and recieve a user token in accordance with the implicit flow.<br/>
@@ -44,6 +44,11 @@ private void Foo(string state, string token)
   Console.WriteLine($"User Token: {token}");
 }
 ```
+
+## License
+
+MIT-License.<br/>
+See the license file for more info.
 
 ## Special thanks
 
