@@ -4,7 +4,7 @@ using System.IO;
 using System.Net;
 using UnityEngine;
 
-namespace VonRiddarn.Twitch.ImplicitOath
+namespace VonRiddarn.Twitch.ImplicitOAuth
 {
 	public class ImplicitOAuth
 	{
