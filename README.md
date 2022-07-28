@@ -18,7 +18,8 @@ It will not help you connect to the Twitch API. You will need a separate library
 Place the scripts directory anywhere in your project where you can access their namespace with the "using" statement.<br/>
 In Unity that would be anywhere in your "Assets" folder, in any other project that would simply be your project folder.
 
-Change the variables inside the "ApplicationDetails.cs" class to fit your application.
+Change the variables inside the "ApplicationDetails.cs" file to fit your application.
+Un-comment the scopes you need in the "Scopes.cs" file as well.
 ```C#
 using VonRiddarn.Twitch.ImplicitOAuth;
 
