@@ -1,4 +1,4 @@
-namespace VonRiddarn.Twitch.ImplicitOath
+namespace VonRiddarn.Twitch.ImplicitOAuth
 {
 	public static class ApplicationDetails
 	{

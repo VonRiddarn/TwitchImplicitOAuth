@@ -1,6 +1,6 @@
 /*NOTE FROM TWITCH:
  An application must request only the scopes required by the APIs that their app calls.
- If you request more scopes than is required to support your app’s functionality, Twitch may suspend your application’s access to the Twitch API.
+ If you request more scopes than is required to support your appï¿½s functionality, Twitch may suspend your applicationï¿½s access to the Twitch API.
 
  To see what each scope does, visit:
  https://dev.twitch.tv/docs/authentication/scopes
@@ -10,7 +10,7 @@
 
 using System.Collections.Generic;
 
-namespace VonRiddarn.Twitch.ImplicitOath
+namespace VonRiddarn.Twitch.ImplicitOAuth
 {
 	public static class Scopes
 	{
